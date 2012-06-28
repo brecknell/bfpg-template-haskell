@@ -48,7 +48,7 @@ the details.
 ### Applications
 
 [Sanj][] asked what applications make use of Template Haskell and QuasiQuotes.
-I mentioned [Yesod][], since [BenK][]'s Yesod talk was up next, but here are a
+I mentioned [Yesod][], since [Ben][]'s Yesod talk was up next, but here are a
 few more.
 
 [Derive][]: A library and tool for automatically deriving type-class instances.
@@ -56,7 +56,7 @@ Uses reification to inspect the data type whose instances are to be derived,
 and provides ready-to-splice quoted declarations for the derived instances.
 
 [Data Accessor][]: A library for defining composable accessors for fields of
-data types. Comes with a [Data Accessors Template][] package which uses
+data types. Comes with a [Data Accessor Template][] package which uses
 reification to generate the accessors for a data type. The [Lenses][] package
 provides similar capabilities, also using Template Haskell.
 
@@ -75,6 +75,6 @@ or grep for "template-haskell" to find dependencies on the support libraries.
 [Lenses]: http://hackage.haskell.org/package/lenses
 [Boomerang]: http://hackage.haskell.org/package/boomerang
 
-[BenK]: http://twitter.com/benkolera
+[Ben]: http://twitter.com/benkolera
 [Sanj]: http://twitter.com/ssanj
 
