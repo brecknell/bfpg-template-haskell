@@ -64,9 +64,10 @@ provides similar capabilities, also using Template Haskell.
 to automatically derive some parser and pretty-printer combinators for a give
 data type.
 
-For more examples, you can fetch the [Hackage index][] and grep for
-"TemplateHaskell" and "QuasiQuotes" (to find uses of the language extensions),
-or grep for "template-haskell" to find dependencies on the support libraries.
+For more examples, you can fetch the [Hackage index][] and grep the cabal files
+for "TemplateHaskell" or "QuasiQuotes" (to find uses of the language
+extensions), or for "template-haskell" to find dependencies on the support
+libraries.
 
 [Yesod]: http://www.yesodweb.com/
 [Derive]: http://hackage.haskell.org/package/derive
@@ -74,6 +75,7 @@ or grep for "template-haskell" to find dependencies on the support libraries.
 [Data Accessor Template]: http://hackage.haskell.org/package/data-accessor-template
 [Lenses]: http://hackage.haskell.org/package/lenses
 [Boomerang]: http://hackage.haskell.org/package/boomerang
+[Hackage index]: http://hackage.haskell.org/packages/archive/00-index.tar.gz
 
 [Ben]: http://twitter.com/benkolera
 [Sanj]: http://twitter.com/ssanj
