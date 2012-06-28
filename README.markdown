@@ -4,7 +4,7 @@
 Slides for a short [talk at the Brisbane Functional Programming Group] [BFPG],
 June 2012.
 
-[BFPG]: http://www.bfpg.org/events/58050552/
+[BFPG]: http://www.bfpg.org/events/67067762/
 
 These are probably only useful if you need to jog your memory about something I
 said at the talk.  If you really want to learn Template Haskell and
